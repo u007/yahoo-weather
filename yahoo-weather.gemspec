@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
     a fork from https://github.com/kossnocorp/jquery.turbolinks"
   s.authors     = ["James"]
   s.email       = 'james@mercstudio.com'
-  s.files       = ["lib/yahoo-weather.rb", "yahoo-weather"]
+  s.files       = ["lib/yahoo-weather.rb", "yahoo-weather/*"]
   s.homepage    =
     'https://github.com/u007/yahoo-weather'
   s.license       = 'MIT'
